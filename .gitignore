@@ -1,0 +1,9 @@
+# Ignore all files except code files, markdown files, .ioc files, and .zip files
+!*/
+!*.c
+!*.cpp
+!*.h
+!*.hpp
+!*.md
+!*.ioc
+!*.zip
