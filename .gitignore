@@ -1,9 +1,12 @@
-# Ignore all files except code files, markdown files, .ioc files, and .zip files
-!*/
-!*.c
-!*.cpp
-!*.h
-!*.hpp
-!*.md
-!*.ioc
-!*.zip
+!DC motor/
+!Encoder/
+!readme.md
+*/.settings/
+*/.project
+*/.cproject
+*/.metadata/
+*/Core/
+*/Drivers/
+*/.mxproject
+.metadata
+*/STM32G431KBTX_FLASH.ld
